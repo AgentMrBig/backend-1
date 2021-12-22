@@ -1,0 +1,25 @@
+{
+  "name": "backend-1",
+  "version": "0.0.1",
+  "description": "simple backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgentMrBig/backend-1.git"
+  },
+  "author": "Eric Hendrix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgentMrBig/backend-1/issues"
+  },
+  "homepage": "https://github.com/AgentMrBig/backend-1#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
